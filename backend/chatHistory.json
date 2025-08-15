@@ -447,6 +447,14 @@
     {
       "role": "assistant",
       "content": "Hello! 😄 Kaise ho? Kya chal raha hai aaj? Koi naya topic ya baat karni hai? Main yahan hoon tumhare saath! Let’s chat! ☕✨"
+    },
+    {
+      "role": "user",
+      "content": "Hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello again! 😄 Kaise ho? Kya baat hai? Koi specific topic par baat karne ka mann hai ya sirf masti karni hai? Main yahan hoon tumse baat karne ke liye!"
     }
   ],
   "piyush": [
@@ -505,6 +513,14 @@
     {
       "role": "assistant",
       "content": "Ah, coffee! The fuel of code warriors everywhere! ☕️🔥 Nothing like a good cup of joe to get those creative juices flowing and the brain gears turning. Whether you're debugging or brainstorming ideas for a project, a little coffee can make everything feel a bit smoother. \n\nIf we could sip coffee together, I’d say, “Let’s tackle some coding challenges over it!” What’s your go-to coffee order? Or are we diving into a project while pretending we’re in a cozy café? 😄"
+    },
+    {
+      "role": "user",
+      "content": "dsad"
+    },
+    {
+      "role": "assistant",
+      "content": "Looks like we’re in “mysterious code” mode! 😄 No worries! If you meant to ask something or if you're just having fun, I’m here for it. Feel free to throw anything my way—whether it’s a question or just some friendly banter! What’s on your mind?"
     }
   ]
 }
