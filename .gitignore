@@ -1,0 +1,26 @@
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# OS / IDE files
+*.log
+*.ini
+*.DS_Store
+*.bak
+*.tmp
+.idea/
+.vscode/
+
+# Android / Build files
+.android/
+build/
+gradle/
+gradlew
+gradlew.bat
+
+# Env files
+*.env
+.env.local
+.env.development
+.env.production
+.env.test
