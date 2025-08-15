@@ -45,7 +45,7 @@ export default function App() {
     if (!personas[personaKey]) return;
     
     try {
-      await fetch('http://localhost:5000/api/clear-chat', {
+      await fetch('https://mimicmind.onrender.com/api/clear-chat', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -133,7 +133,7 @@ export default function App() {
     setIsTyping(true);
   
     try {
-      const response = await fetch("http://localhost:5000/api/chat", {
+      const response = await fetch("https://mimicmind.onrender.com/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: text, persona: personaKey })
@@ -217,7 +217,7 @@ export default function App() {
     
     scrollToBottom();
 
-    fetch('http://localhost:5000/api/chat', {
+    fetch('https://mimicmind.onrender.com/api/chat', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
