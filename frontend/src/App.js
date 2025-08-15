@@ -15,8 +15,8 @@ export default function App() {
     },
     piyush: {
       name: "Piyush Garg",
-      accent: "#10B981",
-      gradient: "linear-gradient(135deg,#064e3b 0%,#065f46 35%,#047857 100%)",
+      accent: "#34D399", 
+     gradient: "linear-gradient(200deg,#1e293b 0%,#064e3b 35%,#34d399 100%)",
       vibe:
         "Direct, outcome-focused mentor. Clear instructions, no fluff. Focuses on real-world applications and career growth.",
       reply: (q) =>
@@ -533,7 +533,6 @@ export default function App() {
       <div className="blob b2" />
       <div className="blob b3" />
 
-      {/* NAV */}
       <nav className="nav">
         <div className="brand">
           <div className="logo">
