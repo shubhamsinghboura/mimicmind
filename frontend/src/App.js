@@ -15,8 +15,8 @@ export default function App() {
     },
     piyush: {
       name: "Piyush Garg",
-      accent: "#34D399", 
-     gradient: "linear-gradient(200deg,#1e293b 0%,#064e3b 35%,#34d399 100%)",
+      accent: "#ea580c", 
+   gradient: "linear-gradient(235deg,#331407 0%,#7c2d12 35%,#ea580c 200%)",
       vibe:
         "Direct, outcome-focused mentor. Clear instructions, no fluff. Focuses on real-world applications and career growth.",
       reply: (q) =>
